@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/heikjann/AT00BY10/badge.svg?branch=main)](https://coveralls.io/github/heikjann/AT00BY10?branch=main)
+
+
 # Student template
 
 ## Purpose of this repository
